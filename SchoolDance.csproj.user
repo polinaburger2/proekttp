@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Forms\Admin\Administrator_menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Admin\AdminPanel\Admin_Coach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Admin\AdminPanel\Admin_Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Admin\AdminPanel\Admin_TopUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Admin\AdminPanel\Admin_Student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Admin\AdminPanel\Admin_SupportMesage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Admin\AdminPanel\Admin_SupportMesageDeep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Coach\CoachPanel\Coach_create_event.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Coach\CoachPanel\Coach_my_lesson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Coach\CoachPanel\Coach_schedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Common\Autorization.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Common\Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Common\SupportMessageForUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Student\StudentPanel\Student_add_money.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Student\StudentPanel\Student_event.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Student\StudentPanel\Student_pay_for_lesson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Student\StudentPanel\Student_question.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Student\StudentPanel\Student_signUp_lesson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Student\StudentPanel\Student_signUp_lesson_deep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
